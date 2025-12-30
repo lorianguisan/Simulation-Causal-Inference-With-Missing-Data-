@@ -1,4 +1,4 @@
-# Simulation-in-Randomization-Inference-With-Missing-Data
+# Simulation in Randomization Inference With Missing Data
 
 Simulation code for my **bachelor project** on **Missing Data in Randomization Inference**.
 
@@ -65,5 +65,6 @@ DISCLAIMER : I got help from AI models for better plotting using `ggplot2`.
 ### Notes
 - Heng's simulation are **computationally heavy**.
 - The **two-step procedure for Li assumption 2** in `Li.R` does not work.
+
 
 
