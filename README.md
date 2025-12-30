@@ -54,15 +54,15 @@ DISCLAIMER : I got help from AI models for better plotting using `ggplot2`.
 - Li : Rejection rate using Li's method.
 - SRE_aligned : Rejection rate using the SRE aligned method
 - SRE_combined : Rejection rate using the SRE combined method.
-
 - Heng_v_Heussen : Compares Heng's and Heussen's methods.
 - Li_v_Li : Compares Li's general and monotone methods.
 - CRE_vSRE : Compares Bounding methods under a SRE vs ignoring stratification in a CRE.
--randomization_distribution : Plot showing the randomization distribution of the Wilcoxon Rank Sum statistic.
--old_plots : Contains outdated plots, not relevant anymore, but contains similar results.
+- randomization_distribution : Plot showing the randomization distribution of the Wilcoxon Rank Sum statistic.
+- old_plots : Contains outdated plots, not relevant anymore, but contains similar results.
 
 ---
  
 ### Notes
 - Heng's simulation are **computationally heavy**.
 - The **two-step procedure for Li assumption 2** in `Li.R` does not work.
+
