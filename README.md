@@ -6,7 +6,7 @@ Simulation code for my **bachelor project** on **Missing Data in Randomization I
 
 ## How to Execute the Code
 
-1. Load all packages in `main.R`.  
+1. Install and load all packages at the start of `main.R`.  
 2. Run all functions (all R scripts **except** `main.R`).
 4. Run the examples provided in `main.R`.
 
@@ -65,6 +65,7 @@ DISCLAIMER : I got help from AI models for better plotting using `ggplot2`.
 ### Notes
 - Heng's simulation are **computationally heavy**.
 - The **two-step procedure for Li assumption 2** in `Li.R` does not work.
+
 
 
 
